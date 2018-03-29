@@ -1,0 +1,8 @@
+﻿  1081.cpp
+c:\users\hp\desktop\1081\1081\1081.cpp(31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\hp\desktop\1081\1081\1081.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hp\desktop\1081\1081\1081.cpp(36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hp\desktop\1081\1081\1081.cpp(40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\hp\desktop\1081\1081\1081.cpp(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  1081.vcxproj -> C:\Users\hp\Desktop\1081\Debug\1081.exe
+  1081.vcxproj -> C:\Users\hp\Desktop\1081\Debug\1081.pdb (Full PDB)

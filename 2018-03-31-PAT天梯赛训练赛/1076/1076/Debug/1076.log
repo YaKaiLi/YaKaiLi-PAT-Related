@@ -1,0 +1,8 @@
+﻿  1076.cpp
+c:\users\hp\desktop\1076\1076\1076.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\desktop\1076\1076\1076.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\desktop\1076\1076\1076.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\desktop\1076\1076\1076.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\desktop\1076\1076\1076.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  1076.vcxproj -> C:\Users\hp\Desktop\1076\Debug\1076.exe
+  1076.vcxproj -> C:\Users\hp\Desktop\1076\Debug\1076.pdb (Full PDB)
